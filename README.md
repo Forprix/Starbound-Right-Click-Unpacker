@@ -1,1 +1,4 @@
-## Supports Windows x64 only
+## Support
+- Windows x64
+## Installation
+- Run /install_unpacker.bat
